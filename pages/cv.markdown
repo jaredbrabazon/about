@@ -30,6 +30,7 @@ Brigham Young University, Provo UT – graduated June 2016_
 - University academic scholarship for 2015, 2016
 - Dean’s list fall of 2014
 - GPA: 3.78
+
 ---
 
 ####  **Research Experience:**
@@ -73,6 +74,7 @@ ODMTools (e.g. pH, water temp, turbidity, precipitation, soil temp, stream disch
 **_Utah Geological Survey: Provo, UT September 2014-December 2014_**
 - Digitized and created GIS data and maps from previously published geological maps
 - Extensively used ArcGIS to prepare maps to a publishable level
+
 ---
 
 ####  **Teaching Experience:**
@@ -117,6 +119,7 @@ nationalities, and social standings
 - Advanced Hydrogeology/Contaminant (graduate level)
 - Soil Physics (graduate level)
 - Water Sustainability (graduate level)
+
 ---
 ####  **Awards and Achievements:**
 - Invitational speaker at East Tennessee Geological Society meeting (May, 2018)
