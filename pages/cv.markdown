@@ -134,15 +134,17 @@ nationalities, and social standings
 ####  **Publications:**
 **_Brabazon, J.W._** & Perfect, E. & Gates, C.H. & Bilheux, Hassina & Tyner, John & McKay, L.D. & Horodecky, B.B.. (2019). 
 	Rock Fracture Sorptivity as Related to Aperture Width and Surface Roughness. Vadose Zone Journal. 18. 10.2136/vzj2018.08.0156. 
-	[download paper](https://www.researchgate.net/publication/331422945_Rock_Fracture_Sorptivity_as_Related_to_Aperture_Width_and_Surface_Roughness/fulltext/5c78942fa6fdcc4715a3f226/Rock-Fracture-Sorptivity-as-Related-to-Aperture-Width-and-Surface-Roughness.pdf)
+	[DOWNLOAD PAPER](https://www.researchgate.net/publication/331422945_Rock_Fracture_Sorptivity_as_Related_to_Aperture_Width_and_Surface_Roughness/fulltext/5c78942fa6fdcc4715a3f226/Rock-Fracture-Sorptivity-as-Related-to-Aperture-Width-and-Surface-Roughness.pdf)
 	
 **_Brabazon, J.W._** , E. Perfect, C.H. Gates, L.J. Santodonato, I. Dhiman, H.Z. Bilheux, J.-C. Bilheux, 
 	and L.D. McKay. 2019. Spontaneous Imbibition of a Wetting Fluid into a Fracture with Opposing Fractal 
-	Surfaces: Theory and Experimental Validation, Fractals, 27, 1, (2019). [download paper](https://doi.org/10.1142/S0218348X19400012)
+	Surfaces: Theory and Experimental Validation, Fractals, 27, 1, (2019). [DOWNLOAD PAPER](https://doi.org/10.1142/S0218348X19400012)
+	
+**_Brabazon, J.W._** Measurement and Modeling of Spontaneous Imbibition of Water into Unsaturated, Fractured 	Low-Porosity Rocks. 2018. Master's Thesis. University of Tennessee, Knoxville
 
 Gates C.H., E. Perfect, B.S. Lokitz, **_J.W. Brabazon_** , L.D. McKay, and J.S. Tyner. 2018, Transient Analysis of
 	Advancing Contact Angle Measurements on Polished Rock Surfaces. Advances in Water Resources.
-	DOI: 10.1016/j.advwatres.2018.03.017. [download paper](https://doi.org/10.1016/j.advwatres.2018.03.017)
+	DOI: 10.1016/j.advwatres.2018.03.017. [DOWNLOAD PAPER](https://doi.org/10.1016/j.advwatres.2018.03.017)
 
 ---
 
