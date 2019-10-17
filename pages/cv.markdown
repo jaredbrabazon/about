@@ -35,6 +35,7 @@ Brigham Young University, Provo UT – graduated June 2016_
 
 ####  **Research Experience:**
 **_Research Assistant: University of Tennessee, Knoxville, TN May 2017 - August 2018_**
+
 _Hydraulic Properties of Fractured Porous Media – advised by Dr. Edmund Perfect_
 - Derived a theoretical mathematical model of the fluid driving process, spontaneous imbibition, in
 fractured low-porosity rocks
@@ -51,6 +52,7 @@ Scattering User Meeting
 
 
 **_Research Assistant: Brigham Young University, Provo, UT January 2015 - June 2016_**
+
 _Ground and Surface Water Analysis – advised by Dr. Greg Carling_
 - Groundwater pathway analysis in Goshen Valley, Utah
 - Performed stream discharge measurements at varying stages and gained experience using flow meters
@@ -65,6 +67,7 @@ oxidation reduction potential, alkalinity)
 - Experience with clean room and laboratory techniques
 
 **_iUtah Traineeship: Brigham Young University, Provo, UT April 2015 - June 2016_**
+
 _Evaluated urban runoff in the rapidly developing city Heber, UT – advised by Dr. Greg Carling & Dylan Dastrup_
 - Installed and maintained flow sensors/data loggers in Provo River watershed
 - Quality controlled large datasets of surface-water, aquatic, and climate variables using Python based
@@ -99,13 +102,13 @@ nationalities, and social standings
 ---
 ####  **Additional Experience:**
 **_Computer Programming etc.:_**
-- R, Python, SQL
-- Quality Assurance/Quality Control
+- R, R Shiny Apps, SQL, HTML & CSS, Python
 - Version control systems: git
-- Visual MODFLOW
-- Word, Excel, Power Point
 - ArcGIS (certified training completed)
 - Adobe Illustrator
+- Visual MODFLOW
+- Word, Excel, Power Point
+- Quality Assurance/Quality Control
 
 **_Other:_**
 - Field work/water sampling
