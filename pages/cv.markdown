@@ -6,14 +6,15 @@ permalink: /cv/
 ## Jared Brabazon
 ---
 ####  **Employment:**
-**_Environmental Scientis II: Tennessee Department of Environment and Conservation, Oak Ridge, TN August - Present_**
+**_Environmental Scientist III: Tennessee Department of Environment and Conservation, Oak Ridge, TN August 2018 - Present_**
 - Monitor and oversee Department of Energy Superfund site (ETTP, ORNL, Y-12) in Oak Ridge, Tennessee
+- Routinely perform data science tasks (statistics, data mining, data visualization) on current and historical environmental data primarily using R programming
 - Project Lead of two surface water sampling programs to assess surface water contamination
 - Perform a variety of field work including: groundwater sampling, benthic macro-invertebrate sampling, radiation walkover surveys, 
 air monitoring, etc.
-- Created user-friendy R Shiny application to streamline data analysis and visualization for non-programming users
+- Develop user-friendly R Shiny applications to streamline data analysis and visualization of environmental data (R, HTML, CSS, JavaScript, PostgreSQL, GIS, GDAL, Leaflet)
 - Routinely perform data science tasks (statistics, data mining, data visualization) on environmental data primarily using R programming
-- Developed office relational database in SQL
+- Developed office relational database in PostgreSQL
 - Presented data analysis and web application work at several TDEC meetings (state-wide manager's meeting, state-wide staff meeting, etc.)
 - Acquired familiarity with FFA and CERCLA processes
 - Routinely review and comment on DOE cleanup primary documents and help write official letters
@@ -102,7 +103,7 @@ nationalities, and social standings
 ---
 ####  **Additional Experience:**
 **_Computer Programming etc.:_**
-- R, R Shiny Apps, SQL, HTML & CSS, Python
+- R, R Shiny Apps, SQL, HTML & CSS, JavaScript, Python
 - Version control systems: git
 - ArcGIS (certified training completed)
 - Adobe Illustrator
@@ -125,6 +126,7 @@ nationalities, and social standings
 
 ---
 ####  **Awards and Achievements:**
+- TDEC Above and Beyond Award (Fall, 2019)
 - Invitational speaker at East Tennessee Geological Society meeting (May, 2018)
 - Graduate Professional Promise Award - UT-Knoxville, Earth and Planetary Sciences (Spring, 2018)
 - Best Departmental Presentation- UT-Knoxville, Earth and Planetary Sciences (Fall, 2017)
@@ -135,6 +137,14 @@ nationalities, and social standings
 ---
 
 ####  **Publications:**
+B. Horodecky, E. Perfect, H. Bilheux, **_J.W. Brabazon_**, C. Gates (2020). 
+	Onset Dynamics of Air-Water Menisci on Rock Fracture Surfaces. Advances in Water Resources. (Submitted) 
+
+S.B. Rigoulot; T.M. Schimel; J.H. Lee; H. Brabazon; J.S. Layton; K.A. Meier; M.R. Poindexter; M.J. Schmid; E.M. Seaberry; **_J.W. Brabazon_**; J.A. Madaijan; M.J. Finander; J. DiBenedetto; A. Occhialini; S.C. Lenaghan; C.N. Stewart Jr. (2020). 
+	Fluorescence-based whole plant imaging and phenomics. Plant Biotechnology Journal. (Submitted) 
+	[DOWNLOAD PAPER](https://www.biorxiv.org/content/10.1101/865428v1)
+
+
 **_Brabazon, J.W._** & Perfect, E. & Gates, C.H. & Bilheux, Hassina & Tyner, John & McKay, L.D. & Horodecky, B.B.. (2019). 
 	Rock Fracture Sorptivity as Related to Aperture Width and Surface Roughness. Vadose Zone Journal. 18. 10.2136/vzj2018.08.0156. 
 	[DOWNLOAD PAPER](https://www.researchgate.net/publication/331422945_Rock_Fracture_Sorptivity_as_Related_to_Aperture_Width_and_Surface_Roughness/fulltext/5c78942fa6fdcc4715a3f226/Rock-Fracture-Sorptivity-as-Related-to-Aperture-Width-and-Surface-Roughness.pdf)
@@ -152,6 +162,9 @@ Gates C.H., E. Perfect, B.S. Lokitz, **_J.W. Brabazon_** , L.D. McKay, and J.S. 
 ---
 
 ####  **Presentations and Posters:**
+E. Perfect, **_J.W. Brabazon_**, C.H. Gates, 2019, 
+	Spontaneous Imbibition in Rough-Walled Rock Fractures: Forward Prediction at Early Times using a Fractal Analytical Model. Poster presented at American Geophysical Union 2019 Conference in San Francisco, CA.
+
 **_Brabazon, J._**,Perfect, E., Gates, C., Cheng, C.L., Bilheux, H., Tremsin, A., Santodonato, L., 2018 , Inverse
 	Estimation of Surface Fractal Dimension for Rock Fractures from Spontaneous Imbibition
 	Measurements. Paper presented at East Tennessee Geological Society in Knoxville, TN.
